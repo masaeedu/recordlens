@@ -1,0 +1,11 @@
+{
+  "name": "recordlens",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@masaeedu/fp": "^10.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
